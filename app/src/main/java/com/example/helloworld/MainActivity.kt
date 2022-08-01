@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
      fun openNextScreen(){
-         val intent = Intent(this, SecondActivity::class.java)
+         val intent = Intent(this, InformationEnter::class.java)
          startActivity(intent)
      }
 

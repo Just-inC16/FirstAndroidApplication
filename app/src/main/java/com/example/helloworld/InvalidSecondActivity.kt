@@ -6,10 +6,10 @@ import android.os.Bundle
 import android.widget.Button
 import android.widget.Toast
 
-class SecondActivity : AppCompatActivity() {
+class InvalidSecondActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_second)
+        setContentView(R.layout.activity_invalid_second)
 
         val homeButton=findViewById<Button>(R.id.homeButton)
         homeButton.setOnClickListener(){
