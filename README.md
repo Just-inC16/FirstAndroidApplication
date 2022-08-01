@@ -2,7 +2,7 @@
 
 Submitted by: Justin Chan
 
-**Name of your app** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**HelloWorld** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. On top of that, the user would be able to receive a "Happy Birthday!" msg if the user's birth month matches with the current month.
 
 Time spent: **6-7** hours spent in total
 
@@ -16,7 +16,6 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [X] List anything else that you can get done to improve the app functionality!
 * [X] Buttons to navigate to the next pages 
 * [X] Check for valid input before moving to the next screen 
 * [X] Include fields that must be filled
@@ -26,15 +25,13 @@ The following **optional** features are implemented:
     - If your birth month doesn't match the current month, you will see "No Happy Birthday!" 
 
 ## Video Walkthrough
-<img src='https://drive.google.com/file/d/1tGCYy3cQLdHQrC3LiMvi6x0mhCzDRihv/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 [Video Walkthrough](https://drive.google.com/file/d/1tGCYy3cQLdHQrC3LiMvi6x0mhCzDRihv/view?usp=sharing).  
 
 ## Notes
 Describe any challenges encountered while building the app.
 1. I struggled with the syntax. 
    a. I am not familiar with Kotlin.
-   b. I am not familiar with android namespace XML tags. But after understanding the file structure, I was more comfortable.
+   b. I am not familiar with Android namespace XML tags. But after understanding the file structure and syntax, I was more comfortable working in the environment.
 2. I struggled with navigating to the next activities. 
 3. I had trouble with loading the calendar and fetching the values from the field.
 4. I had trouble placing the individual components in the correct positions.
